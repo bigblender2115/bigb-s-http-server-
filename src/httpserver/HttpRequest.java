@@ -4,6 +4,7 @@ import java.util.Map;
 import java.util.HashMap;
 
 /**
+ * http request and its components
  * format:
  * METHOD PATH HTTP/VERSION
  * header: val
